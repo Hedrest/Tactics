@@ -42,20 +42,6 @@ public class PlayerControls : MonoBehaviour
 
         Move();
 
-       
-        if (Input.GetMouseButtonDown(0))
-        {
-           
-            anim.SetTrigger("Attack");
-        }
-        
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            anim.SetTrigger("Jump");
-        }
-
-
-
         Ray cameraRay = mainCamera.ScreenPointToRay(Input.mousePosition);
         Plane groundPlane = new Plane(Vector3.up, Vector3.zero);
         float rayLenght;
@@ -65,7 +51,7 @@ public class PlayerControls : MonoBehaviour
         {
             Vector3 lookDirection = cameraRay.GetPoint(rayLenght);
 
-            transform.LookAt(new Vector3(lookDirection.x, lookDirection.y, lookDirection.z));
+            transform.LookAt(new Vector3(lookDirection.x, transform.position.y, lookDirection.z));
         }
 
       
