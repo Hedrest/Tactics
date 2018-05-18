@@ -4,10 +4,6 @@ using UnityEngine;
 
 public class Roofblock : MonoBehaviour {
 
-    //public GameObject ;
-   
-   
-
     void OnTriggerEnter(Collider other)
     {
         
