@@ -14,23 +14,23 @@ public class PlayerInventory : MonoBehaviour {
 	void Start () {
         keys = 0;
         //grenades = 0;
-        Debug.Log("working?");
+        
         
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log("hmmmhhh");
+       
         if (KeyItem.keyCount >= 1)
         {
-            Debug.Log("got something");   
+              
             keyUI.SetActive(true);
-            //keyImage.enable;
+           
         }else if (KeyItem.keyCount <= 0)
         {
-            Debug.Log("maybe not");
+          
             keyUI.SetActive(false);
-           // keyImage.disable;
+           
         }
     }
    /* void UpdateGrenades()
