@@ -631,7 +631,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 95162240309480768}
-  light: {fileID: 108110320789062312}
+  lt: {fileID: 108110320789062312}
 --- !u!208 &208413572692704990
 NavMeshObstacle:
   m_ObjectHideFlags: 1

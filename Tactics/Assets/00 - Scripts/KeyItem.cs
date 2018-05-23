@@ -8,7 +8,6 @@ public class KeyItem : MonoBehaviour {
     {
         if (other.gameObject.tag == "Player")
         {
-            Debug.Log("Gotem");
             keyCount += 1;
             Destroy(gameObject);
         }
