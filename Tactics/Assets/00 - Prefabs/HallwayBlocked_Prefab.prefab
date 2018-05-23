@@ -41,7 +41,7 @@ GameObject:
   m_Name: Wall_Top_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1129098094959250
@@ -60,7 +60,7 @@ GameObject:
   m_Name: Column_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1190633079728084
@@ -108,7 +108,7 @@ GameObject:
   m_Name: Wall_Top_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1277429509195868
@@ -345,7 +345,7 @@ GameObject:
   m_Name: Column_01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1645489231223528
@@ -506,7 +506,7 @@ GameObject:
   m_Name: Wall_Top_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1857468386800788
@@ -539,7 +539,7 @@ GameObject:
   m_Name: Wall_Top_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1882367052667356
@@ -557,7 +557,7 @@ GameObject:
   m_Name: Wall_Top_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1891684728951780
@@ -576,7 +576,7 @@ GameObject:
   m_Name: Roof_Half_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1892197195766368
@@ -640,7 +640,7 @@ GameObject:
   m_Name: Column_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &1976214398613346
@@ -712,7 +712,7 @@ GameObject:
   m_Name: Column_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
-  m_NavMeshLayer: 1
+  m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4027984880094138
